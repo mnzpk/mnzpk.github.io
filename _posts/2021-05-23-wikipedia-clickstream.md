@@ -9,5 +9,6 @@ Wikipedia clickstream data can provide priceless insights into how readers brows
 Or it can reveal what sources send the most traffic to an article.  
 ![](../assets/img/incoming_pageviews.png)  
 It can also help us determine the percentage of outgoing clicks that come from each section of the article.  
+<br/>
 ![](../assets/img/outgoing_pageviews.png)
 And these are only some of the things we can do with this data. These insights can prove valuable for not only people who contribute to Wikipedia but also for researchers, educators and journalists, among others. This is why one goal for the tool that we'll be building is to make accessing these results a possibility for people who don't have the skills to glean them from raw data.  
