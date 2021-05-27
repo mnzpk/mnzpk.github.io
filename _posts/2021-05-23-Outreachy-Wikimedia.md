@@ -22,7 +22,7 @@ Another great thing about Outreachy is the application process. Even if you don'
 
 ## Wikimedia ##
 
-    The Wikimedia Foundation is a nonprofit charitable organization dedicated to encouraging the growth, development and distribution of free, multilingual content, and to providing the full content of these wiki-based projects to the public free of charge.
+>The Wikimedia Foundation is a nonprofit charitable organization dedicated to encouraging the growth, development and distribution of free, multilingual content, and to providing the full content of these wiki-based projects to the public free of charge.
 
 Choosing what projects to apply to can be challenging because there are so many of them and all of them are very interesting. I decided to apply to Wikimedia because:  
 
