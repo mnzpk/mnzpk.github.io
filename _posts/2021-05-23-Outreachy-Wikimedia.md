@@ -2,7 +2,7 @@
 layout: post
 title: 'My Outreachy Internship With Wikimedia: Prologue'
 ---
-Hi! I am Muniza and this summer I'll be interning with [Wikimedia](https://www.wikimedia.org/) as an [Outreachy](https://www.outreachy.org) intern. Since I'll be blogging about it over the next three months, I want to talk a little bit about what this internship involves and why I decided to apply for it.
+Hi! I'm Muniza and this summer I'll be interning with [Wikimedia](https://www.wikimedia.org/) as an [Outreachy](https://www.outreachy.org) intern. Since I'll be blogging about it over the next three months, I want to talk a little bit about what this internship involves and why I decided to apply for it.
 
 ## What's Outreachy? ##  
 
