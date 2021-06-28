@@ -2,7 +2,7 @@
 layout: post
 title: 'Wikimedia Internship: Weeks 3 & 4' 
 ---
-About a month ago, I began my [Outreachy internship](/_posts/2021-05-23-Outreachy-Wikimedia.md) with Wikimedia. As part of this internship, I have been working on developing a tool that visualizes reader navigation behavior on Wikipedia, an [experimental version](https://wn-api-test.toolforge.org) of which is now up on [Toolforge](https://wikitech.wikimedia.org/wiki/Portal:Toolforge).  
+About a month ago, I began my [Outreachy internship](/2021-05-23-Outreachy-Wikimedia.md) with Wikimedia. As part of this internship, I have been working on developing a tool that visualizes reader navigation behavior on Wikipedia, an [experimental version](https://wn-api-test.toolforge.org) of which is now up on [Toolforge](https://wikitech.wikimedia.org/wiki/Portal:Toolforge).  
   
 Developing this tool has been very fun but it comes with its own set of challenges. These range from choosing the right way to process millions of records to making sure that the vizualizations that this tool generates are intuitive enough.  
   
